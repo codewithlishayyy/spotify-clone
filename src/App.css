@@ -325,6 +325,3 @@ a {
   transform: translateY(0);
 }
 
-.music-card:hover .album-cover {
-  filter: brightness(0.75);
-}
